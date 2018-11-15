@@ -3,3 +3,8 @@ Learn how to create new file in hithub
 Step1: Select the repo in which you want to create file.
 Step2: Enter file name
 Step3: Click on Save button.
+*******************
+Learn how to create new branch
+Step1:Follow the above steps 1-3
+Step2:Add the text and select new branch option befour commit and observe that new branch will be created with same file.
+
