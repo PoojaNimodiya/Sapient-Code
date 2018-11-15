@@ -1,2 +1,5 @@
 *******************
 Learn how to create new file in hithub
+Step1: Select the repo in which you want to create file.
+Step2: Enter file name
+Step3: Click on Save button.
